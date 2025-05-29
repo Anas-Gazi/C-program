@@ -1,6 +1,7 @@
 // copy one string to another and count the number of character copoid.
 
 #include<stdio.h>
+#include<string.h>
 int main()
 {
  char a[20], b[20];
